@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elliot727
-- 👀 I’m interested in photography and making music
-- 🌱 I’m currently learning swift
+- 👀 I’m interested in swiftUI and flutter
+- 🌱 I’m currently learning flutter
 
 <!---
 Elliot727/Elliot727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
