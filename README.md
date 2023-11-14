@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elliot727
 - 👀 I’m interested in swiftUI
-- 🌱 I’m currently building an app
+- 🌱 I’m currently building an app that does something
 
 <!---
 Elliot727/Elliot727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
