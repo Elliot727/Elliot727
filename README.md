@@ -1,77 +1,45 @@
-# 👋 Hi, I'm Elliot
+# Elliot Silver
 
-```go
-package main
+I build product interfaces end to end, and the systems that sit underneath them.
 
-import "github.com/elliot727/gocvkit"
+Design-aware iOS and web. Computer vision in Go. Tools that stay out of your way.
 
-func main() {
-    dev := Developer{
-        Name:     "Elliot Silver",
-        Focus:    []string{"Systems Programming", "Computer Vision", "iOS Architecture"},
-        Creator:  "GoCVKit", // Production-ready OpenCV framework for Go
-        Philosophy: "Stability > Hype",
-    }
-    
-    dev.Build()
-}
-```
+**[designbyelliot.studio](https://designbyelliot.studio)** · [elliot.app@proton.me](mailto:elliot.app@proton.me) · [@CodeWithElliot](https://x.com/CodeWithElliot)
 
 ---
 
-## 🚀 What I Build
+## Now
 
-I create tools that bridge the gap between complex systems programming and intuitive user experiences.
+- Shipping **[Compact Design](https://github.com/Elliot727/compact-design)** — an LLM-friendly design language, a reusable core, and a Figma adapter
+- Client work through [Design by Elliot](https://designbyelliot.studio) — iOS apps and web that look intentional and ship clean
+- Maintaining **[GoCVKit](https://github.com/Elliot727/gocvkit)** — production OpenCV pipelines for Go, without the boilerplate
 
-### **GoCVKit** (Featured Project)
-The OpenCV framework Go was waiting for. I built this because existing solutions were either too low-level (manual memory management) or too unstable for production.
-- **What it does:** Declarative, hot-reloadable computer vision pipelines.
-- **Key Engineering:** Pre-allocated double-buffering, strict resource lifecycle (`Validate`/`Close`), and crash-safe error handling.
-- **Status:** **v2.0.0** – Stable, tested, and ready for production.
-- 🔗 **[View GoCVKit Repository](https://github.com/Elliot727/gocvkit)**
+## Selected work
 
-### **iOS & SwiftUI**
-Leveraging years of mobile development to build performant, accessible apps with clean architecture.
-- Focus on reactive patterns (Combine/SwiftUI) and type-safe design.
-- Bridging native performance with modern declarative UI.
+**Open source**
 
----
+- **[GoCVKit](https://github.com/Elliot727/gocvkit)** — production-ready OpenCV for Go. Pre-allocated pipelines, hot-reload config, strict resource safety.
+- **[Compact Design](https://github.com/Elliot727/compact-design)** — Compact Design JSON for generating real layouts, plus `@compact-design/core` and a Figma plugin.
+- **[StravaKit](https://github.com/Elliot727/StravaKit)** — Swift SDK for the Strava API. async/await, strict types, automated token refresh.
+- **[ShutterSync](https://github.com/Elliot727/ShutterSync)** — pulls photos off a camera, renames from EXIF, files them by date. Go, native macOS picker.
+- **[NoteWorthy Nonsense](https://github.com/Elliot727/noteworthynonsense)** — local AI that turns study notes into Chad & Brad podcast episodes. Fully offline.
+- **[Log-Gob](https://github.com/Elliot727/Log-Gob)** — Clash Royale battle logger. SQLite, a TUI, decks side by side.
 
-## 🛠 Technical Stack
+**Apps**
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Systems & Backend** | **Go**, Python, TOML |
-| **Mobile & Frontend** | Swift, SwiftUI, Combine, TypeScript, React |
-| **Computer Vision** | OpenCV, GoCV, Image Processing Algorithms |
-| **Design & Tools** | Figma, Xcode, Git, CI/CD Pipelines |
+- **[Krow](https://apps.apple.com/gb/app/krow/id6657987723)** — places and wayfinding. MapKit, filters, walk guidance that stays out of the map's way.
+- **[Nada](https://apps.apple.com/gb/app/nada/id6742335236)** — a deliberately quiet todo app. The list is the product.
 
----
+## How I work
 
-## 💡 Engineering Philosophy
+Stability over hype. If a config is invalid, say so — don't segfault. Complex tools should have simple APIs.
 
-- **Honesty over Hype:** I don't claim "zero allocations" if the GC exists. I claim "deterministic performance" and back it up with profilers.
-- **Safety First:** If a config is invalid, the app should tell you, not segfault. Resource leaks are bugs, not features.
-- **Developer Experience:** Complex tools should have simple APIs. If it requires boilerplate, the abstraction is leaking.
+On product work: weekly builds you can tap, honest tradeoffs, and UI that doesn't look like an afterthought.
+
+## Stack
+
+Go · Swift / SwiftUI · TypeScript · Python · OpenCV · Figma
 
 ---
 
-## 📈 Current Focus
-
-- **High-Performance Go:** Optimizing cgo boundaries and minimizing GC pressure in real-time video streams.
-- **Cross-Platform CV:** Exploring ways to share computer vision logic between Go backends and Swift frontends.
-- **Robust Architecture:** Designing systems that degrade gracefully under load rather than crashing.
-
----
-
-## 🤝 Connect
-
-I'm open to discussing systems architecture, computer vision challenges, or iOS engineering.
-
-- **X (Twitter):** [@codewithelliot](https://x.com/CodeWithElliot)
-
----
-
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-📜 **License:** MIT © 2025 Elliot Silver
+Booking via [designbyelliot.studio](https://designbyelliot.studio).
