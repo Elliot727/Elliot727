@@ -4,7 +4,7 @@ I build product interfaces end to end, and the systems that sit underneath them.
 
 Design-aware iOS and web. Computer vision in Go. Tools that stay out of your way.
 
-**[designbyelliot.studio](https://designbyelliot.studio)** · [elliot.app@proton.me](mailto:elliot.app@proton.me) · [@CodeWithElliot](https://x.com/CodeWithElliot)
+**[designbyelliot.studio](https://designbyelliot.studio)** · [elliot.app@proton.me](mailto:elliot.app@proton.me) · [@madebyelliot](https://x.com/madebyelliot)
 
 ---
 
