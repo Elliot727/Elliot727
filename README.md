@@ -2,7 +2,7 @@
 
 I build product interfaces end to end, and the systems that sit underneath them.
 
-Design-aware iOS and web. Computer vision in Go. Tools that stay out of your way.
+Swift first. Design-aware iOS and web. Computer vision in Go when the problem is a camera, not a screen.
 
 **[designbyelliot.studio](https://designbyelliot.studio)** · [elliot.app@proton.me](mailto:elliot.app@proton.me) · [@madebyelliot](https://x.com/madebyelliot)
 
@@ -10,18 +10,18 @@ Design-aware iOS and web. Computer vision in Go. Tools that stay out of your way
 
 ## Now
 
+- **[NetworkKit](https://github.com/Elliot727/NetworkKit)** — Swift 6 networking with no personality disorder. Describe an `Endpoint`, execute it, validate the status, decode the body. That's the whole product.
 - Shipping **[Compact Design](https://github.com/Elliot727/compact-design)** — LLM-friendly design language, reusable core, Figma + HTML adapters
 - Client work through [Design by Elliot](https://designbyelliot.studio) — iOS and web that look intentional and ship clean
 - Maintaining **[GoCVKit](https://github.com/Elliot727/gocvkit)** — production OpenCV pipelines for Go, without the boilerplate
-- Building **[NetworkKit](https://github.com/Elliot727/NetworkKit)** — small Swift 6 networking: describe an `Endpoint`, execute it, decode it
 
 ## Selected work
 
 **Open source**
 
+- **[NetworkKit](https://github.com/Elliot727/NetworkKit)** — typed Swift networking. No retry soup, no middleware maze. Endpoint in, decoded value out.
 - **[Compact Design](https://github.com/Elliot727/compact-design)** — Compact Design JSON for generating real layouts. `@compact-design/core`, HTML renderer, Figma plugin, MCP server. MPL-2.0.
 - **[GoCVKit](https://github.com/Elliot727/gocvkit)** — production-ready OpenCV for Go. Pre-allocated pipelines, hot-reload config, strict resource safety.
-- **[NetworkKit](https://github.com/Elliot727/NetworkKit)** — typed Swift networking. No retry soup, no middleware maze. Endpoint in, decoded value out.
 - **[ShutterSync](https://github.com/Elliot727/ShutterSync)** — pulls photos off a camera, renames from EXIF, files them by date. Go, native macOS picker.
 - **[NoteWorthy Nonsense](https://github.com/Elliot727/noteworthynonsense)** — local AI that turns study notes into Chad & Brad podcast episodes. Fully offline.
 
@@ -38,7 +38,7 @@ On product work: weekly builds you can tap, honest tradeoffs, and UI that doesn'
 
 ## Stack
 
-Go · Swift / SwiftUI · TypeScript · Python · OpenCV · Figma
+Swift / SwiftUI · Go · TypeScript · Python · OpenCV · Figma
 
 ---
 
