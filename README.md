@@ -10,20 +10,20 @@ Design-aware iOS and web. Computer vision in Go. Tools that stay out of your way
 
 ## Now
 
-- Shipping **[Compact Design](https://github.com/Elliot727/compact-design)** — an LLM-friendly design language, a reusable core, and a Figma adapter
-- Client work through [Design by Elliot](https://designbyelliot.studio) — iOS apps and web that look intentional and ship clean
+- Shipping **[Compact Design](https://github.com/Elliot727/compact-design)** — LLM-friendly design language, reusable core, Figma + HTML adapters
+- Client work through [Design by Elliot](https://designbyelliot.studio) — iOS and web that look intentional and ship clean
 - Maintaining **[GoCVKit](https://github.com/Elliot727/gocvkit)** — production OpenCV pipelines for Go, without the boilerplate
+- Building **[NetworkKit](https://github.com/Elliot727/NetworkKit)** — small Swift 6 networking: describe an `Endpoint`, execute it, decode it
 
 ## Selected work
 
 **Open source**
 
+- **[Compact Design](https://github.com/Elliot727/compact-design)** — Compact Design JSON for generating real layouts. `@compact-design/core`, HTML renderer, Figma plugin, MCP server. MPL-2.0.
 - **[GoCVKit](https://github.com/Elliot727/gocvkit)** — production-ready OpenCV for Go. Pre-allocated pipelines, hot-reload config, strict resource safety.
-- **[Compact Design](https://github.com/Elliot727/compact-design)** — Compact Design JSON for generating real layouts, plus `@compact-design/core` and a Figma plugin.
-- **[StravaKit](https://github.com/Elliot727/StravaKit)** — Swift SDK for the Strava API. async/await, strict types, automated token refresh.
+- **[NetworkKit](https://github.com/Elliot727/NetworkKit)** — typed Swift networking. No retry soup, no middleware maze. Endpoint in, decoded value out.
 - **[ShutterSync](https://github.com/Elliot727/ShutterSync)** — pulls photos off a camera, renames from EXIF, files them by date. Go, native macOS picker.
 - **[NoteWorthy Nonsense](https://github.com/Elliot727/noteworthynonsense)** — local AI that turns study notes into Chad & Brad podcast episodes. Fully offline.
-- **[Log-Gob](https://github.com/Elliot727/Log-Gob)** — Clash Royale battle logger. SQLite, a TUI, decks side by side.
 
 **Apps**
 
