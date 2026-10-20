@@ -4,7 +4,7 @@ I build product interfaces end to end, and the systems that sit underneath them.
 
 Swift first. Design-aware iOS and web. Computer vision in Go when the problem is a camera, not a screen.
 
-**[designbyelliot.studio](https://designbyelliot.studio)** · [elliot.app@proton.me](mailto:elliot.app@proton.me) · [@madebyelliot](https://x.com/madebyelliot)
+**[designbyelliot.studio](https://designbyelliot.studio)** · [elliot@designbyelliot.studio](mailto:elliot@designbyelliot.studio) · [@madebyelliot](https://x.com/madebyelliot)
 
 ---
 
